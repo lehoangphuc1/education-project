@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\javascript\\Object"
+	},
+	{
+		"path": "..\\..\\javascript\\Date"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Date"
+  }
+}
